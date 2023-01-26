@@ -1,2 +1,4 @@
 # PrepCourse_Henry
-Repositorio de prueba modulo 2 del prepcourse de henry
+Jahn Carflos Vazquez
+Este proyecto es una prueba de como crear 
+un repositorio en github y como clonar un repositorio local
